@@ -3,14 +3,13 @@
   font-size: 2rem;
   color: rgb(255, 255, 255);
   background-color: rgb(23, 66, 130);
-  transition: background-color 0.1s;
+  transition: background-color .1s;
   border: none;
   border-radius: 1rem;
   padding: 1rem 2rem;
   margin: 1rem;
-}
-.i-do-nothing:hover {
-  background-color: rgb(48, 93, 165);
-}
 
-/*# sourceMappingURL=index.css.map */
+  &:hover {
+    background-color: rgb(48, 93, 165);
+  }
+}
