@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FM-rest-countries-w-dark-mode/static/css/main.08e5332d.css",
+    "main.js": "/FM-rest-countries-w-dark-mode/static/js/main.a8b4a8fc.js",
+    "index.html": "/FM-rest-countries-w-dark-mode/index.html",
+    "main.08e5332d.css.map": "/FM-rest-countries-w-dark-mode/static/css/main.08e5332d.css.map",
+    "main.a8b4a8fc.js.map": "/FM-rest-countries-w-dark-mode/static/js/main.a8b4a8fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e5332d.css",
+    "static/js/main.a8b4a8fc.js"
+  ]
+}
